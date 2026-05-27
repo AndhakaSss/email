@@ -1,0 +1,1 @@
+web: python beacon_with_config.py
