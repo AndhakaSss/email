@@ -2,8 +2,8 @@
 # But on Railway you can just upload it directly
 
 TELEGRAM_CONFIG = {
-    "bot_token": "8618098753:AAGfuO5YDTv_0WjSkbuxJhMrVZseo9bFogg";
-    "chat_id": "-1004294003714";
+    "bot_token": "8618098753:AAGfuO5YDTv_0WjSkbuxJhMrVZseo9bFogg",
+    "chat_id": "-1004294003714"
 }
 
 # Optional: rate limiting to avoid duplicate alerts from pre-fetching
